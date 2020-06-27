@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-labelson">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson-nodesc">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E65100-labelson-nodesc">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Naku La</name>
+      <description><![CDATA[<img src="https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/q4eelsvihu799c67rejufvocqc/kaovbfrklr9uc58rcgfd55efgk/1593289148750/Kd25WiZL-RfFljZHy9wB6VtrJN1kuqsS/07504962294632849357/5AF2TALoAbGmT2Hmp9XkkjEO-MyreIg2Av7M9-JuGHG3tmenkjLqcjmiPUy9U96yLTitEIDyz8lWD0bz8WcdPobS4jYzTIGA--_UeuhPFnPdwAVpIg8RtDKBSF78JmTiNk-K8PoBpkl5TaDKwyi4WOdRaGSzlNVCgI8KUqdgako363wjCilVnWCipacVmMxNbfR3kGgoR-0mPpepLcusHSANRlNLmfapyoZpedtObvbZI6TYw3Mr1NtLeb_xnfsv2H5Lg8Z3mZ6U1f7_7-eJHjDqe1u_xRjn2eA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/q4eelsvihu799c67rejufvocqc/kaovbfrklr9uc58rcgfd55efgk/1593289148750/Kd25WiZL-RfFljZHy9wB6VtrJN1kuqsS/07504962294632849357/5AF2TALoAbGmT2Hmp9XkkjEO-MyreIg2Av7M9-JuGHG3tmenkjLqcjmiPUy9U96yLTitEIDyz8lWD0bz8WcdPobS4jYzTIGA--_UeuhPFnPdwAVpIg8RtDKBSF78JmTiNk-K8PoBpkl5TaDKwyi4WOdRaGSzlNVCgI8KUqdgako363wjCilVnWCipacVmMxNbfR3kGgoR-0mPpepLcusHSANRlNLmfapyoZpedtObvbZI6TYw3Mr1NtLeb_xnfsv2H5Lg8Z3mZ6U1f7_7-eJHjDqe1u_xRjn2eA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.4833333,28.0333333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pangon Tso Lake </name>
+      <description><![CDATA[<img src="https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/q4eelsvihu799c67rejufvocqc/r63lt8kv401escscp6qvdb1v8c/1593289148750/Kd25WiZL-RfFljZHy9wB6VtrJN1kuqsS/07504962294632849357/5AF2TALpc_vfs82-LvcGHAw3zhbPSOEMeWv_q_g-NHulxbg_14ND7SHsTuKVSJ8W5YPcQh3PBY2aJi76DCTiyhKBPad6tIf8xQCgqyv7RzyXN-k0ogyrwuaGCsHxeAk5dHsoUtZzaMVtPW_Pc_fPVIqHclO7isDmEwlQHcVskBXN1-9irvzwn4d1bFu8qjTKxB42bMyXzmWKy0FjbgbaW27EHqwW9sdSksizl-tR2kKjIqPl5fN_48Un60HDhTGoNATUtBrHMrmfrqSl9gCTSVrr5OVsi_ie5BQ?session=0&fife" height="200" width="auto" /><br><br>It is a 135-km long lake, located in the Himalayas at the height of approximately 4,350 m, stretches out from India to China.<br><br>One-third of water body, its 45 km stretch, is in Indian control while the rest of the 90 km is under Chinese control.<br><br>It is formed from Tethys geosyncline.<br><br>It is a salt water lake.]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/q4eelsvihu799c67rejufvocqc/r63lt8kv401escscp6qvdb1v8c/1593289148750/Kd25WiZL-RfFljZHy9wB6VtrJN1kuqsS/07504962294632849357/5AF2TALpc_vfs82-LvcGHAw3zhbPSOEMeWv_q_g-NHulxbg_14ND7SHsTuKVSJ8W5YPcQh3PBY2aJi76DCTiyhKBPad6tIf8xQCgqyv7RzyXN-k0ogyrwuaGCsHxeAk5dHsoUtZzaMVtPW_Pc_fPVIqHclO7isDmEwlQHcVskBXN1-9irvzwn4d1bFu8qjTKxB42bMyXzmWKy0FjbgbaW27EHqwW9sdSksizl-tR2kKjIqPl5fN_48Un60HDhTGoNATUtBrHMrmfrqSl9gCTSVrr5OVsi_ie5BQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          78.7589558,33.694648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Natu La</name>
+      <description><![CDATA[<img src="https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/q4eelsvihu799c67rejufvocqc/lh4fqkm03r58s5t7ji7pe8evq0/1593289148750/Kd25WiZL-RfFljZHy9wB6VtrJN1kuqsS/07504962294632849357/5AF2TALo8CAHYRnWG84opCEKugsLtNuG2fRp17rUj9ol9AZ2v7vwGycqy-jWQt4UEefqQNELDX415EkMoK5TTINDdxyZtiFPJdGB16sN5kBxDIcLzVVSQ_o65mWWfvhYXBJ3aBGXnwAcNGRXmYC2OtsCDHQkhgaypofkdnHFbonhuH8XmZvFMpsT-32BLybsXCPY3WsJ91b88V0cxLS-10PP5D7AHFu2qSctCppWRCQ749NsCaftN4BuiXyGhhJRs9XzYnFGgmonhAySihVXhMniYWYHPC_Wzkg?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-4E342E-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/q4eelsvihu799c67rejufvocqc/lh4fqkm03r58s5t7ji7pe8evq0/1593289148750/Kd25WiZL-RfFljZHy9wB6VtrJN1kuqsS/07504962294632849357/5AF2TALo8CAHYRnWG84opCEKugsLtNuG2fRp17rUj9ol9AZ2v7vwGycqy-jWQt4UEefqQNELDX415EkMoK5TTINDdxyZtiFPJdGB16sN5kBxDIcLzVVSQ_o65mWWfvhYXBJ3aBGXnwAcNGRXmYC2OtsCDHQkhgaypofkdnHFbonhuH8XmZvFMpsT-32BLybsXCPY3WsJ91b88V0cxLS-10PP5D7AHFu2qSctCppWRCQ749NsCaftN4BuiXyGhhJRs9XzYnFGgmonhAySihVXhMniYWYHPC_Wzkg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.8166667,27.4,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tulung La</name>
+      <styleUrl>#icon-1899-E65100-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          92.2333333,27.8,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Galwan valley</name>
+      <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          78.2124149,34.7694772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
